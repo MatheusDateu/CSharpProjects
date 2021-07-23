@@ -1,0 +1,15 @@
+C:\Users\Delmondes\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.exe
+C:\Users\Delmondes\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\Users\Delmondes\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\Users\Delmondes\source\repos\Media\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\Users\Delmondes\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.Form1.resources
+C:\Users\Delmondes\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\Users\Delmondes\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.pdb
+C:\Users\Delmondes\source\repos\Media\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache

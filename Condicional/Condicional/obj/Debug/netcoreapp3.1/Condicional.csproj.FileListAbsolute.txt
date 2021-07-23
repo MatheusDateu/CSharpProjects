@@ -1,0 +1,15 @@
+C:\Users\Delmondes\source\repos\Condicional\Condicional\bin\Debug\netcoreapp3.1\Condicional.exe
+C:\Users\Delmondes\source\repos\Condicional\Condicional\bin\Debug\netcoreapp3.1\Condicional.deps.json
+C:\Users\Delmondes\source\repos\Condicional\Condicional\bin\Debug\netcoreapp3.1\Condicional.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Condicional\Condicional\bin\Debug\netcoreapp3.1\Condicional.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Condicional\Condicional\bin\Debug\netcoreapp3.1\Condicional.dll
+C:\Users\Delmondes\source\repos\Condicional\Condicional\bin\Debug\netcoreapp3.1\Condicional.pdb
+C:\Users\Delmondes\source\repos\Condicional\Condicional\obj\Debug\netcoreapp3.1\Condicional.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Condicional\Condicional\obj\Debug\netcoreapp3.1\Condicional.Form1.resources
+C:\Users\Delmondes\source\repos\Condicional\Condicional\obj\Debug\netcoreapp3.1\Condicional.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Condicional\Condicional\obj\Debug\netcoreapp3.1\Condicional.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Condicional\Condicional\obj\Debug\netcoreapp3.1\Condicional.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Condicional\Condicional\obj\Debug\netcoreapp3.1\Condicional.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Condicional\Condicional\obj\Debug\netcoreapp3.1\Condicional.dll
+C:\Users\Delmondes\source\repos\Condicional\Condicional\obj\Debug\netcoreapp3.1\Condicional.pdb
+C:\Users\Delmondes\source\repos\Condicional\Condicional\obj\Debug\netcoreapp3.1\Condicional.genruntimeconfig.cache

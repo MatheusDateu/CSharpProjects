@@ -1,0 +1,16 @@
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.Form1.resources
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.Properties.Resources.resources
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\bin\Debug\netcoreapp3.1\Calculadora_de_IMC.exe
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\bin\Debug\netcoreapp3.1\Calculadora_de_IMC.deps.json
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\bin\Debug\netcoreapp3.1\Calculadora_de_IMC.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\bin\Debug\netcoreapp3.1\Calculadora_de_IMC.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\bin\Debug\netcoreapp3.1\Calculadora_de_IMC.dll
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\bin\Debug\netcoreapp3.1\Calculadora_de_IMC.pdb
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.dll
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.pdb
+C:\Users\Delmondes\source\repos\Calculadora_de_IMC\Calculadora_de_IMC\obj\Debug\netcoreapp3.1\Calculadora_de_IMC.genruntimeconfig.cache

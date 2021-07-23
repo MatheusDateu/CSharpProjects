@@ -1,0 +1,15 @@
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.exe
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.deps.json
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.Form1.resources
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\Delmondes\source\repos\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.genruntimeconfig.cache
