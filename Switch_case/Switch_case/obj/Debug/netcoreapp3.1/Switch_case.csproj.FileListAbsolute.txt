@@ -1,0 +1,16 @@
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.exe
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.deps.json
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.dll
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.pdb
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.Form1.resources
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.dll
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.pdb
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.genruntimeconfig.cache
+C:\Users\Delmondes\source\repos\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.Form2.resources
