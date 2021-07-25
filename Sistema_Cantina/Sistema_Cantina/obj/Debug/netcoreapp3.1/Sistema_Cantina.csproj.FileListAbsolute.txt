@@ -1,0 +1,16 @@
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.Form1.resources
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.Properties.Resources.resources
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\netcoreapp3.1\Sistema_Cantina.exe
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\netcoreapp3.1\Sistema_Cantina.deps.json
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\netcoreapp3.1\Sistema_Cantina.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\netcoreapp3.1\Sistema_Cantina.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\netcoreapp3.1\Sistema_Cantina.dll
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\netcoreapp3.1\Sistema_Cantina.pdb
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.dll
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.pdb
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.genruntimeconfig.cache

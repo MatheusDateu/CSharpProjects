@@ -1,0 +1,15 @@
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\bin\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.exe
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\bin\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.deps.json
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\bin\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\bin\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\bin\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.dll
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\bin\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.pdb
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\obj\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\obj\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.Form1.resources
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\obj\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\obj\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\obj\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\obj\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\obj\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.dll
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\obj\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.pdb
+C:\Users\Delmondes\source\repos\Estrutura_de_Repetição_While\Estrutura_de_Repetição_While\obj\Debug\netcoreapp3.1\Estrutura_de_Repetição_While.genruntimeconfig.cache

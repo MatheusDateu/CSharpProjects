@@ -1,0 +1,16 @@
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\bin\Debug\netcoreapp3.1\Login_Ao_Sistema.exe
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\bin\Debug\netcoreapp3.1\Login_Ao_Sistema.deps.json
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\bin\Debug\netcoreapp3.1\Login_Ao_Sistema.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\bin\Debug\netcoreapp3.1\Login_Ao_Sistema.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\bin\Debug\netcoreapp3.1\Login_Ao_Sistema.dll
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\bin\Debug\netcoreapp3.1\Login_Ao_Sistema.pdb
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.Form1.resources
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.Form2.resources
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.dll
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.pdb
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.genruntimeconfig.cache

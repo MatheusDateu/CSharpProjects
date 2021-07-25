@@ -1,0 +1,15 @@
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\bin\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.exe
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\bin\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.deps.json
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\bin\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\bin\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\bin\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.dll
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\bin\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.pdb
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\obj\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\obj\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.Form1.resources
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\obj\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\obj\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\obj\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\obj\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\obj\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.dll
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\obj\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.pdb
+C:\Users\Delmondes\source\repos\Estruturas_De_Repetição_For\Estruturas_De_Repetição_For\obj\Debug\netcoreapp3.1\Estruturas_De_Repetição_For.genruntimeconfig.cache

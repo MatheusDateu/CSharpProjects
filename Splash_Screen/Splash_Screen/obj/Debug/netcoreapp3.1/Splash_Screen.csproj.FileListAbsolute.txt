@@ -1,0 +1,16 @@
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\bin\Debug\netcoreapp3.1\Splash_Screen.exe
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\bin\Debug\netcoreapp3.1\Splash_Screen.deps.json
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\bin\Debug\netcoreapp3.1\Splash_Screen.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\bin\Debug\netcoreapp3.1\Splash_Screen.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\bin\Debug\netcoreapp3.1\Splash_Screen.dll
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\bin\Debug\netcoreapp3.1\Splash_Screen.pdb
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.AboutBox1.resources
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.Form1.resources
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.dll
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.pdb
+C:\Users\Delmondes\source\repos\Splash_Screen\Splash_Screen\obj\Debug\netcoreapp3.1\Splash_Screen.genruntimeconfig.cache

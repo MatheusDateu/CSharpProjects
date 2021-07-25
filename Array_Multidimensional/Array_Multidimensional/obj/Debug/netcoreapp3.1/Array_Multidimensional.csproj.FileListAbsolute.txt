@@ -1,0 +1,15 @@
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\bin\Debug\netcoreapp3.1\Array_Multidimensional.exe
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\bin\Debug\netcoreapp3.1\Array_Multidimensional.deps.json
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\bin\Debug\netcoreapp3.1\Array_Multidimensional.runtimeconfig.json
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\bin\Debug\netcoreapp3.1\Array_Multidimensional.runtimeconfig.dev.json
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\bin\Debug\netcoreapp3.1\Array_Multidimensional.dll
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\bin\Debug\netcoreapp3.1\Array_Multidimensional.pdb
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\obj\Debug\netcoreapp3.1\Array_Multidimensional.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\obj\Debug\netcoreapp3.1\Array_Multidimensional.Form1.resources
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\obj\Debug\netcoreapp3.1\Array_Multidimensional.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\obj\Debug\netcoreapp3.1\Array_Multidimensional.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\obj\Debug\netcoreapp3.1\Array_Multidimensional.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\obj\Debug\netcoreapp3.1\Array_Multidimensional.csproj.CoreCompileInputs.cache
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\obj\Debug\netcoreapp3.1\Array_Multidimensional.dll
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\obj\Debug\netcoreapp3.1\Array_Multidimensional.pdb
+C:\Users\Delmondes\source\repos\Array_Multidimensional\Array_Multidimensional\obj\Debug\netcoreapp3.1\Array_Multidimensional.genruntimeconfig.cache

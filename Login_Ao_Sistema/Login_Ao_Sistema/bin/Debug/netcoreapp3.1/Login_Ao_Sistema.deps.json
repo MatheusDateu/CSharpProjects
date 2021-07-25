@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Login_Ao_Sistema/1.0.0": {
+        "runtime": {
+          "Login_Ao_Sistema.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Login_Ao_Sistema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

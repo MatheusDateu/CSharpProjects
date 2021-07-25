@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Estrutura_de_Repetição_While_Tabuada/1.0.0": {
+        "runtime": {
+          "Estrutura_de_Repetição_While_Tabuada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrutura_de_Repetição_While_Tabuada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
