@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sistema_Cantina": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

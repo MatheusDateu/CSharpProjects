@@ -12,9 +12,9 @@ namespace Sistema_Cantina
 {
     public partial class Form1 : Form
     {
-        string[] produtos = new string[10];
-        string[] codigo = new string[10];
-        double[] valor = new double[10];
+        string[] produtos = new string[6];
+        string[] codigo = new string[6];
+        double[] valor = new double[6];
         double soma;
         /*Declaração de 3 arrays para armazenas 10 produtos,
          * e seus respectivos códigos e valores.
@@ -26,23 +26,39 @@ namespace Sistema_Cantina
 
         private void picImagem_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void txtProduto_TextChanged(object sender, EventArgs e)
         {
-            if (txtProduto.Text.Length == 5)
+            if (txtProduto.Text.Length == 3)
             {
-                lstCaixa.Items.Add(txtProduto.Text);
-                txtProduto.Text = "";
-                txtProduto.Focus();
+                int indice = 0;
+                for (int prod = 1; prod < codigo.Length; prod++)
+                {
+                    if (txtProduto.Text == codigo[prod])
+                    {
+                        indice = prod;
+                    }
+                }
+                if (indice == 0)
+                {
+                    MessageBox.Show("Produto não encontrado");
+                    //Condição, se foi encontrado o produto, ele retorna as informações de acordo com o índice, caso não encontre, aparecerá a mensagem "Produto não encontrado
+                }
+                else
+                {
+                    lstCaixa.Items.Add(txtProduto.Text + " -- " + produtos[indice] + "-- R$ " + valor[indice]);
+                    //Conteúdo adicionado no ListBox, concatena (+) as informações (código, nome e valor)
+                    soma = soma + valor[indice];
+                    label3.Text = ("Valor Total R$" + soma);
+                    picImagem.ImageLocation = "C:/Imagens/" + codigo[indice] + ".jpg";
+                    txtProduto.Text = "";
+                    txtProduto.Focus();
+                    /*Localização da imagem que deve ser colocada em uma pasta em c: em uma pasta imagens
+                     * o textbox será limpo e o Focus posiciona o cursor para o TextBox para uma nova digitação*/
+                }
             }
-            /*Inicia com uma condição, se o usuário digitar um código com 5 caracteres (length), esse
-             * código é adicionado ao listbox.
-             * A propriedade length retorna a quantidade de caracteres.
-             * Após o conteúdo ser enviado para o ListBox, o txtbox será limpo e o Focus posiciona
-             * o cursor para o TextBox para uma nova digitação
-             */
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -50,9 +66,9 @@ namespace Sistema_Cantina
             carregarArray();
             soma = 0;
         }
-        /*Ao entrar no form load será chamado o método*/
+        //Ao entrar no form load será chamado o método
         private void carregarArray()
-        /*Criação do Método para ser chamado quadno necessário, isso evita repetir várias vezes o mesmo códiogo*/
+        //Criação do Método para ser chamado quando necessário, isso evita repetir várias vezes o mesmo códiogo
         {
             codigo[1] = "001";
             codigo[2] = "002";
@@ -71,7 +87,28 @@ namespace Sistema_Cantina
             valor[3] = 12.00;
             valor[4] = 3.50;
             valor[5] = 8.00;
-            /*Códigos, Produtos, Valores referentes aos arrays que foram declarados*/
+            //Códigos, Produtos, Valores referentes aos arrays que foram declarados
+        }
+
+        private void lstCaixa_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Close();
+            //Fecha o programa
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
