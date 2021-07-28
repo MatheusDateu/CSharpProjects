@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento_de_erros_TRY_e_CATCH", "Tratamento_de_erros_TRY_e_CATCH\Tratamento_de_erros_TRY_e_CATCH.csproj", "{71713409-91CE-419B-A7DA-52A1D0822480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71713409-91CE-419B-A7DA-52A1D0822480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71713409-91CE-419B-A7DA-52A1D0822480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71713409-91CE-419B-A7DA-52A1D0822480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71713409-91CE-419B-A7DA-52A1D0822480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BE20F72-7F4C-4397-8EF0-BCD95C62514C}
+	EndGlobalSection
+EndGlobal
