@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoAlfanumerica_para_numerica", "ConversaoAlfanumerica_para_numerica\ConversaoAlfanumerica_para_numerica.csproj", "{BF6FBA19-7FE6-4CFB-A520-8026E4E5B15E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D9536DB-C364-4E52-AE42-DEFFC7EA6683}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6FBA19-7FE6-4CFB-A520-8026E4E5B15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6FBA19-7FE6-4CFB-A520-8026E4E5B15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6FBA19-7FE6-4CFB-A520-8026E4E5B15E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BF6FBA19-7FE6-4CFB-A520-8026E4E5B15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6FBA19-7FE6-4CFB-A520-8026E4E5B15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6FBA19-7FE6-4CFB-A520-8026E4E5B15E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {939793F4-65DA-42D5-9EEA-59B63FB79E59}
+	EndGlobalSection
+EndGlobal

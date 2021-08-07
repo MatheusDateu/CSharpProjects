@@ -33,6 +33,10 @@ namespace Login_Ao_Sistema
                  * Ou seja, ele terá acesso ao sistema, somente se o usuário e senha estiver correto
                  */
             }
+            else
+            {
+                MessageBox.Show("Usuário e senha não conferem.", "Error");
+            }
         }
     }
 }

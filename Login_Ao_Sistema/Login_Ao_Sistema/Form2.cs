@@ -14,5 +14,12 @@ namespace Login_Ao_Sistema
         {
             InitializeComponent();
         }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            Form3 novo = new Form3();
+            novo.Show();
+            this.Visible = false;
+        }
     }
 }

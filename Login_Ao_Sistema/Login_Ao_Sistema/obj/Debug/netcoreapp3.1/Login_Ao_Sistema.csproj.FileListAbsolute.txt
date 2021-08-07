@@ -14,3 +14,4 @@ C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netc
 C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.dll
 C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.pdb
 C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.genruntimeconfig.cache
+C:\Users\Delmondes\source\repos\Login_Ao_Sistema\Login_Ao_Sistema\obj\Debug\netcoreapp3.1\Login_Ao_Sistema.Form3.resources

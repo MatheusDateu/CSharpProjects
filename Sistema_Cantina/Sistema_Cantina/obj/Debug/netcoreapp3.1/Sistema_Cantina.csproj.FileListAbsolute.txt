@@ -14,3 +14,4 @@ C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\netcor
 C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.dll
 C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.pdb
 C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.genruntimeconfig.cache
+C:\Users\Delmondes\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\netcoreapp3.1\Sistema_Cantina.Form2.resources

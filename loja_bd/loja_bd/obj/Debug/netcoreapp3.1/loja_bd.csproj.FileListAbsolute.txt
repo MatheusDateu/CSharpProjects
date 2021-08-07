@@ -1,0 +1,6 @@
+C:\Users\Delmondes\source\repos\loja_bd\loja_bd\obj\Debug\netcoreapp3.1\loja_bd.csproj.AssemblyReference.cache
+C:\Users\Delmondes\source\repos\loja_bd\loja_bd\obj\Debug\netcoreapp3.1\loja_bd.FormDesign.resources
+C:\Users\Delmondes\source\repos\loja_bd\loja_bd\obj\Debug\netcoreapp3.1\loja_bd.csproj.GenerateResource.cache
+C:\Users\Delmondes\source\repos\loja_bd\loja_bd\obj\Debug\netcoreapp3.1\loja_bd.AssemblyInfoInputs.cache
+C:\Users\Delmondes\source\repos\loja_bd\loja_bd\obj\Debug\netcoreapp3.1\loja_bd.AssemblyInfo.cs
+C:\Users\Delmondes\source\repos\loja_bd\loja_bd\obj\Debug\netcoreapp3.1\loja_bd.csproj.CoreCompileInputs.cache
